@@ -1,0 +1,1 @@
+Various HTML experiments creating an interactive experience. iframes communicate to parent iframes, and you must "complete" a certain number of child iframes for the parent to be "complete" to advance to the next page. A flexible dialogue system, with branching conversations as well as requirements to discover things on the page to choose an answer, is also implemented.
